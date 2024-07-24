@@ -1,5 +1,15 @@
 # site
 
+## 0.0.103
+
+### Patch Changes
+
+- 72fe07d: Added Binance Web3 Wallet support with `binanceWallet` wallet connector
+- Updated dependencies [b530c80]
+- Updated dependencies [72fe07d]
+- Updated dependencies [d02d73f]
+  - @rainbow-me/rainbowkit@2.1.4
+
 ## 0.0.102
 
 ### Patch Changes

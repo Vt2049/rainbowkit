@@ -1,5 +1,13 @@
 # @rainbow-me/rainbowkit
 
+## 2.1.4
+
+### Patch Changes
+
+- b530c80: Added mobile support for `zealWallet` wallet connector
+- 72fe07d: Added Binance Web3 Wallet support with `binanceWallet` wallet connector
+- d02d73f: Resolved an issue where the Phantom wallet did not appear as an EIP-6963 connector.
+
 ## 2.1.3
 
 ### Patch Changes
